@@ -6,8 +6,6 @@ data/frames/*
 *.pyc
 
 # tensorflow / tensorboard
-*.h5
-*.v2
 
 .vscode/*
 .ipynb_checkpoints/*
@@ -18,5 +16,5 @@ data/frames/*
 docs/paper
 game/monsterkong/*
 data/model/05_07_2020/checkpoints
-data/tensorboard/*
 docs/presentation
+data/tensorboard
