@@ -1,0 +1,22 @@
+#images
+data/frames/*
+*_actions
+
+# pyt cache
+*.pyc
+
+# tensorflow / tensorboard
+*.h5
+*.v2
+
+.vscode/*
+.ipynb_checkpoints/*
+
+*.ipynb
+
+# sone private files
+docs/paper
+game/monsterkong/*
+data/model/05_07_2020/checkpoints
+data/tensorboard/*
+docs/presentation
